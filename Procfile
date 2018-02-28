@@ -1,1 +1,1 @@
-web: java -jar target/heroku-start.war
+web: java -jar target/heroku-start.jar

@@ -6,7 +6,7 @@
     <groupId>pl.mg.heroku</groupId>
     <artifactId>heroku-start</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>heroku-start</name>
     <description>demo project for Heroku cloud</description>
