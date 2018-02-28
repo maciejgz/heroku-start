@@ -1,1 +1,1 @@
-web: java -jar target/heroku-start.jar
+web: java -jar target/heroku-start.jar -Dserver.port=$PORT
